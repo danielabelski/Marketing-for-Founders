@@ -36,7 +36,8 @@ This is why you’ll find here a practical collection of startup resources, tips
 - [⚗ User Research](#-user-research)
 - [🧨 Other resources](#-other-resources)
 
-_**PS. Leave me a star ⭐ or [say Hi on X/Twitter](https://x.com/e_stradella) if you find this useful!**_
+_**PS. Leave me a star ⭐ if you find this useful!**_<br/>
+_**PPS. Need 1-on-1 help with SaaS Marketing? Feel free to [DM me on X/Twitter](https://x.com/e_stradella)**_
 <br/><br/><br/>
 
 ## 📣 Places To Launch Your Startup
@@ -174,6 +175,7 @@ Here are a few ideas to set up your SaaS sales strategy:
 - [B2B Ideal Customer Profile Template](https://miro.com/miroverse/ideal-customer-profile-b2b-persona/)
 - [How to do startup sales with no experience](https://posthog.com/founders/startup-sales-strategy)
 - [Master LinkedIn Sales Navigator in < 90 min](https://www.mrrunlocked.com/p/linkedin-sales-navigator-guide)
+- [8 Steps to Get Your Outbound Up & Running (Without Overthinking It)](https://knowledge.gtmstrategist.com/p/8-steps-for-outbound-email-campaigns)
 - [The GTM Outreach Playbook: From Triggers to Demos](https://knowledge.gtmstrategist.com/p/the-gtm-outreach-playbook-from-triggers-to-demos)
 - [The Ultimate Guide to Sales Product Demos](https://www.mrrunlocked.com/p/the-ultimate-guide-to-sales-product-demos)
 - [4 Must-Have Email Templates in SaaS Sales](https://www.mrrunlocked.com/p/the-4-must-have-sales-email-templates)
@@ -219,6 +221,7 @@ How to get recommended by ChatGPT, Claude, Perplexity, and Gemini is probably th
 
 So, where can you learn how to get found in AI search?
 - [The ultimate guide to AEO: How to get ChatGPT to recommend your product](https://www.lennysnewsletter.com/p/the-ultimate-guide-to-aeo-ethan-smith)
+- [AEO: How to Make AI Recommend Your Product](https://knowledge.gtmstrategist.com/p/aeo-how-to-make-ai-recommend-your-product)
 - [How to get recommended by ChatGPT](https://web.archive.org/web/20250912043229/https://www.growthunhinged.com/p/get-recommended-by-chatgpt)
 - [A hands-on guide to ranking across AI search engines like ChatGPT, Perplexity, and Google](https://knowledge.gtmstrategist.com/p/how-to-win-the-new-seo-game-ai-search)
 - [How Vercel is adapting SEO for LLMs and AI search](https://vercel.com/blog/how-were-adapting-seo-for-llms-and-ai-search)
@@ -339,6 +342,7 @@ Here are a few resources to turn your website into a sales and marketing asset:
 - [SaaS Headline Playbook](https://nicolasmerouze.notion.site/SaaS-Headline-Playbook-176830adbaa5477994946a3106473aba)
 - [A quickstart guide to positioning](https://www.lennysnewsletter.com/p/positioning)
 - [The definitive product positioning framework](https://web.archive.org/web/20250814042615/https://www.growthunhinged.com/p/product-positioning-part-one) and [How to differentiate your product](https://web.archive.org/web/20250421234543/https://www.growthunhinged.com/p/how-to-differentiate-your-product)
+- [The Ultimate Positioning Guide (+ Worksheet)](https://www.mrrunlocked.com/p/the-ultimate-saas-positioning-guide)
 - [How to create value proposition for developer tools](https://www.markepear.dev/blog/value-proposition-developer-tools)
 - [Developer product positioning and messaging examples that slap](https://devpmm.substack.com/p/developer-product-positioning-and-messaging-examples-that-slap)
 - [The Ultimate SaaS Messaging Framework for early-stage Startups](https://www.mrrunlocked.com/p/the-ultimate-saas-messaging-framework)
@@ -437,6 +441,13 @@ So, how do you get feedback? Here are a few resources to get you started:
 <br/><br/><br/>
 
 ## 👨‍💻 About
-This was inspired by [Marketing for Engineers](https://github.com/goabstract/Marketing-for-Engineers?tab=readme-ov-file) (thanks Lisa & Ahmed!) and is created and maintained by Edoardo Stradella ([Twitter/X](https://x.com/e_stradella)). <br/>All resources, guides, and tools were done by independent authors and companies. All credentials are included.
+👋Hi! I’m Edoardo and I help early-stage SaaS with product marketing.
 
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/W7W21ITHKD)
+In short, I work 1-on-1 with founders to build a strong marketing foundation based on:
+- **Ideal Customer Profile** so you know who users are, why they care about your SaaS and how to find them.
+- **Messaging & Positioning** this way you understand what to say so that users engage and convert.
+- **Homepage, Feature pages, Industry Pages, Sales decks, Case Studies** and everything else to put positioning and messaging into action.
+- **Go to Market Strategy** to make sure you're doing the right things with Launches, SEO, Reddit, Social Media, Sales, Free Tools, Content, Affiliate programs and so on.
+
+
+_**Need 1-on-1 help with SaaS Marketing? Feel free to [DM me on X/Twitter](https://x.com/e_stradella)**_
